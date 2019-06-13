@@ -1,0 +1,25 @@
+{
+  "fitbit": {
+    "appUUID": "2ffe5b94-91a6-456f-8b53-7eb4e790fae2",
+    "appType": "clockface",
+    "appDisplayName": "Pixel Art",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#607d8b",
+    "requestedPermissions": [
+      "access_activity"
+    ],
+    "buildTargets": [
+      "meson",
+      "gemini"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Pixel Art"
+      }
+    },
+    "defaultLanguage": "en-US"
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~3.1.0"
+  }
+}

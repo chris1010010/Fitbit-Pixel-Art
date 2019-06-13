@@ -1,0 +1,46 @@
+<svg class="background">
+  
+  <g id="mins" transform="translate(50%,50%)">
+    <rect x="$-4" y="-110" width="8" height="110" fill="#e0e0e0" />
+  </g>
+  <g id="hours" transform="translate(50%,50%)">
+    <rect x="$-6" y="-75" width="12" height="75" fill="#ffffff" />
+  </g>
+  <g id="secs" transform="translate(50%,50%)">
+    <rect x="$-2" y="-120" width="4" height="120" fill="#ff0000" />
+  </g>
+  <circle cx="50%" cy="50%" r="10" fill="#444444" />
+  
+  <image id="stepsIcon" x="5" y="245" width="48" height="48" href="stat_steps_solid_48px.png" fill="#BBFFBB"/>
+  
+  <rect class="pix" id="pix00" x="0" y="0" width="60" height="60" fill="grey" pointer-events="visible"/>
+  <rect class="pix" id="pix01" x="60" y="0" width="60" height="60" fill="dimgrey" pointer-events="visible"/>
+  <rect class="pix" id="pix02" x="120" y="0" width="60" height="60" fill="grey" pointer-events="visible"/>
+  <rect class="pix" id="pix03" x="180" y="0" width="60" height="60" fill="dimgrey" pointer-events="visible"/>
+  <rect class="pix" id="pix04" x="240" y="0" width="60" height="60" fill="grey" pointer-events="visible"/>
+
+  <rect class="pix" id="pix10" x="0" y="60" width="60" height="60" fill="grey" pointer-events="visible"/>
+  <rect class="pix" id="pix11" x="60" y="60" width="60" height="60" fill="dimgrey" pointer-events="visible"/>
+  <rect class="pix" id="pix12" x="120" y="60" width="60" height="60" fill="grey" pointer-events="visible"/>
+  <rect class="pix" id="pix13" x="180" y="60" width="60" height="60" fill="dimgrey" pointer-events="visible"/>
+  <rect class="pix" id="pix14" x="240" y="60" width="60" height="60" fill="grey" pointer-events="visible"/>
+
+  <rect class="pix" id="pix20" x="0" y="120" width="60" height="60" fill="grey" pointer-events="visible"/>
+  <rect class="pix" id="pix21" x="60" y="120" width="60" height="60" fill="dimgrey" pointer-events="visible"/>
+  <rect class="pix" id="pix22" x="120" y="120" width="60" height="60" fill="grey" pointer-events="visible"/>
+  <rect class="pix" id="pix23" x="180" y="120" width="60" height="60" fill="dimgrey" pointer-events="visible"/>
+  <rect class="pix" id="pix24" x="240" y="120" width="60" height="60" fill="grey" pointer-events="visible"/>
+
+  <rect class="pix" id="pix30" x="0" y="180" width="60" height="60" fill="grey" pointer-events="visible"/>
+  <rect class="pix" id="pix31" x="60" y="180" width="60" height="60" fill="dimgrey" pointer-events="visible"/>
+  <rect class="pix" id="pix32" x="120" y="180" width="60" height="60" fill="grey" pointer-events="visible"/>
+  <rect class="pix" id="pix33" x="180" y="180" width="60" height="60" fill="dimgrey" pointer-events="visible"/>
+  <rect class="pix" id="pix34" x="240" y="180" width="60" height="60" fill="grey" pointer-events="visible"/>
+
+  <rect class="pix" id="pix40" x="0" y="240" width="60" height="60" fill="grey" pointer-events="visible"/>
+  <rect class="pix" id="pix41" x="60" y="240" width="60" height="60" fill="dimgrey" pointer-events="visible"/>
+  <rect class="pix" id="pix42" x="120" y="240" width="60" height="60" fill="grey" pointer-events="visible"/>
+  <rect class="pix" id="pix43" x="180" y="240" width="60" height="60" fill="dimgrey" pointer-events="visible"/>
+  <rect class="pix" id="pix44" x="240" y="240" width="60" height="60" fill="grey" pointer-events="visible"/>
+  
+</svg>
