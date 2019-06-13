@@ -1,2 +1,2 @@
 # Fitbit-Pixel-Art
-Interactive watch face
+Interactive watch face for Fibit Versa
